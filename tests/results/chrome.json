@@ -1,0 +1,469 @@
+[
+  {
+    "description": "  As a user I want to check that I lose the game waiting repeatedly, regardless of the location I am at.",
+    "elements": [
+      {
+        "description": "",
+        "id": "i-lose-the-game-by-waiting;you-will-lose-the-game-by-waiting-enough-times-at-the-location-\"outside-the-cafe\"",
+        "keyword": "Scenario Outline",
+        "line": 13,
+        "name": "You will lose the game by waiting enough times at the location \"outside the cafe\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1045368581
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"outside the cafe\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3147540
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"outside the cafe\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3450249
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "I wait repeatedly until I die",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 211100998
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"I died\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2286249
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "i-lose-the-game-by-waiting;you-will-lose-the-game-by-waiting-enough-times-at-the-location-\"inside-the-cafe\"",
+        "keyword": "Scenario Outline",
+        "line": 14,
+        "name": "You will lose the game by waiting enough times at the location \"inside the cafe\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 40693957
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"inside the cafe\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 21876916
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"inside the cafe\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2313332
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "I wait repeatedly until I die",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 831850917
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"I died\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1901497
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "i-lose-the-game-by-waiting;you-will-lose-the-game-by-waiting-enough-times-at-the-location-\"on-an-empty-street\"",
+        "keyword": "Scenario Outline",
+        "line": 15,
+        "name": "You will lose the game by waiting enough times at the location \"on an empty street\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 38081706
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"on an empty street\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 24060998
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"on an empty street\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2427416
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "I wait repeatedly until I die",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 373219040
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"I died\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1815250
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "i-lose-the-game-by-waiting;you-will-lose-the-game-by-waiting-enough-times-at-the-location-\"in-a-crowded-bar\"",
+        "keyword": "Scenario Outline",
+        "line": 16,
+        "name": "You will lose the game by waiting enough times at the location \"in a crowded bar\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 37448041
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"in a crowded bar\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 51030581
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"in a crowded bar\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2047747
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "I wait repeatedly until I die",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 598043374
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"I died\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1894207
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "i-lose-the-game-by-waiting;you-will-lose-the-game-by-waiting-enough-times-at-the-location-\"in-the-country-side\"",
+        "keyword": "Scenario Outline",
+        "line": 17,
+        "name": "You will lose the game by waiting enough times at the location \"in the country-side\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 37485456
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"in the country-side\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 26467164
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"in the country-side\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2261205
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "I wait repeatedly until I die",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 347780166
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"I died\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2061956
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "i-lose-the-game-by-waiting;you-will-lose-the-game-by-waiting-enough-times-at-the-location-\"at-the-concert\"",
+        "keyword": "Scenario Outline",
+        "line": 18,
+        "name": "You will lose the game by waiting enough times at the location \"at the concert\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 36782707
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"at the concert\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 43166749
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"at the concert\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2479123
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "I wait repeatedly until I die",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 139256497
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"I died\"",
+            "match": {
+              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1841291
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "i-lose-the-game-by-waiting",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "I lose the game by waiting",
+    "tags": [],
+    "uri": "tests/features/lose-the-game.feature"
+  }
+]
