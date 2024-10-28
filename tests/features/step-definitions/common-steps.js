@@ -16,7 +16,7 @@ Given('that I navigated to the position {string}', async function (to) {
   await navigateTo(this, to);
 });
 
-Given('that my position is {string}', async function (position) {
+Given('that my position is {string}', async function (position) { 
   expect(await getWhereIAm(this)).to.equal(position);
 });
 
@@ -25,7 +25,9 @@ When('i click the {string} button', async function (button) {
 });
 
 When('i press {string}', async function (pressedKey) {
-  // TODO: implement step
+  console.log(pressedKey)
+  // temp solution while
+  //await this.driver.executeScript(() => document.exitFullscreen());
 });
 
 Then('my position should be {string}', async function (position) {
