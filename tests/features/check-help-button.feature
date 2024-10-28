@@ -1,9 +1,10 @@
 Feature: Check help button
   As a user I want to be able to use the help button from any part of the game
 
-  Scenario: The help button works on the first scene
+  Scenario Outline: The help button works on the first scene
     Given that I have started the game by navigating to "http://localhost:3000"
     And that I navigated to the position "<location>"
+    And that my position is "<location>"
     When i click the "Help" button
     Then the Help description should appear
     When i click the "Continue" button
