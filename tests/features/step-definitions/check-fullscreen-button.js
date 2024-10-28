@@ -1,6 +1,6 @@
 
 import { Given, When, Then } from '@cucumber/cucumber';
-import { By, until, Key } from 'selenium-webdriver';
+import { navigateTo, getWhereIAm, getMenuChoiceElement } from './helpers.js'
 import { expect } from 'chai';
 
 Then('the game should go fullscreen', async function(){
