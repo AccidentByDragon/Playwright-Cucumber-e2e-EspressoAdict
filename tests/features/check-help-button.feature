@@ -6,9 +6,9 @@ Feature: Check help button
     And that I navigated to the position "<location>"
     And that my position is "<location>"
     When i click the "Help" button
-    Then the Help description should appear
+    Then my position should be "looking at the help page"
     When i click the "Continue" button
-    Then the Help description should disappear
+    Then my position should be "<location>"
 
     Examples:
       | location            |

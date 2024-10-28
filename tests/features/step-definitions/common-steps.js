@@ -19,3 +19,15 @@ Given('that I navigated to the position {string}', async function (to) {
 Given('that my position is {string}', async function (position) {
   expect(await getWhereIAm(this)).to.equal(position);
 });
+
+When('i click the {string} button', async function (button) {  
+  await this.page.getByText(button).click();
+});
+
+When('i press {string}', async function (pressedKey) {
+  // TODO: implement step
+});
+
+Then('my position should be {string}', async function (position) {
+  expect(await getWhereIAm(this)).to.equal(position);
+});

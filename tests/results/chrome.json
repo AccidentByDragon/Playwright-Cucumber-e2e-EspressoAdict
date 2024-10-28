@@ -1,5 +1,1251 @@
 [
   {
+    "description": "  As a user I want to be able to use the fullscreen button from any part of the game",
+    "elements": [
+      {
+        "description": "",
+        "id": "check-fullscreen-button;the-help-button-works-on-the-first-scene",
+        "keyword": "Scenario Outline",
+        "line": 15,
+        "name": "The help button works on the first scene",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 203550400
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"outside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15247999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"outside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5846800
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "i click the \"Full screen\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 55804999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "the game should go fullscreen",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 14916199
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "i press \"ESCAPE\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 806098
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "i should exit fullscreen",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 11393699
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "check-fullscreen-button;the-help-button-works-on-the-first-scene",
+        "keyword": "Scenario Outline",
+        "line": 16,
+        "name": "The help button works on the first scene",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 90743999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"inside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 39015799
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"inside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 7015598
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "i click the \"Full screen\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 47009997
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "the game should go fullscreen",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 14686398
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "i press \"ESCAPE\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15278197
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "i should exit fullscreen",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1829500
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "check-fullscreen-button;the-help-button-works-on-the-first-scene",
+        "keyword": "Scenario Outline",
+        "line": 17,
+        "name": "The help button works on the first scene",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 104569199
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"on an empty street\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 45927198
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"on an empty street\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 8958197
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "i click the \"Full screen\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 38498698
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "the game should go fullscreen",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 14459197
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "i press \"ESCAPE\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15498397
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "i should exit fullscreen",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15360298
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "check-fullscreen-button;the-help-button-works-on-the-first-scene",
+        "keyword": "Scenario Outline",
+        "line": 18,
+        "name": "The help button works on the first scene",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 108336999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"in a crowded bar\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 61918299
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"in a crowded bar\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 14909898
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "i click the \"Full screen\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 46619098
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "the game should go fullscreen",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 14821500
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "i press \"ESCAPE\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15022299
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "i should exit fullscreen",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1385799
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "check-fullscreen-button;the-help-button-works-on-the-first-scene",
+        "keyword": "Scenario Outline",
+        "line": 19,
+        "name": "The help button works on the first scene",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 110388398
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"in the country-side\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 53413698
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"in the country-side\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 16641699
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "i click the \"Full screen\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 30961300
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "the game should go fullscreen",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 14898399
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "i press \"ESCAPE\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 14895898
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "i should exit fullscreen",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5562198
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "check-fullscreen-button;the-help-button-works-on-the-first-scene",
+        "keyword": "Scenario Outline",
+        "line": 20,
+        "name": "The help button works on the first scene",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 115723898
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"at the concert\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 71930298
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"at the concert\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5457099
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "i click the \"Full screen\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 26210599
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "the game should go fullscreen",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4651300
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "i press \"ESCAPE\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15010898
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "i should exit fullscreen",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15586299
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "check-fullscreen-button",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Check fullscreen button",
+    "tags": [],
+    "uri": "tests\\features\\check-fullscreen-button.feature"
+  },
+  {
+    "description": "  As a user I want to be able to use the help button from any part of the game",
+    "elements": [
+      {
+        "description": "",
+        "id": "check-help-button;the-help-button-works-on-the-first-scene",
+        "keyword": "Scenario Outline",
+        "line": 15,
+        "name": "The help button works on the first scene",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 121424099
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"outside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15513298
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"outside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15246700
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "i click the \"Help\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 31837198
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"looking at the help page\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 16254698
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "i click the \"Continue\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 30558997
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "my position should be \"outside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15675600
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "check-help-button;the-help-button-works-on-the-first-scene",
+        "keyword": "Scenario Outline",
+        "line": 16,
+        "name": "The help button works on the first scene",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 112296399
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"inside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 36289498
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"inside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6241899
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "i click the \"Help\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 47124497
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"looking at the help page\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 16039298
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "i click the \"Continue\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 30946097
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "my position should be \"inside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15417399
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "check-help-button;the-help-button-works-on-the-first-scene",
+        "keyword": "Scenario Outline",
+        "line": 17,
+        "name": "The help button works on the first scene",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 110493298
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"on an empty street\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 37412897
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"on an empty street\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4896398
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "i click the \"Help\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 27748199
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"looking at the help page\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2934900
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "i click the \"Continue\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 30329498
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "my position should be \"on an empty street\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15794198
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "check-help-button;the-help-button-works-on-the-first-scene",
+        "keyword": "Scenario Outline",
+        "line": 18,
+        "name": "The help button works on the first scene",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 118625299
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"in a crowded bar\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 81879098
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"in a crowded bar\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15597700
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "i click the \"Help\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 46713297
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"looking at the help page\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15123098
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "i click the \"Continue\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 31438297
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "my position should be \"in a crowded bar\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15035098
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "check-help-button;the-help-button-works-on-the-first-scene",
+        "keyword": "Scenario Outline",
+        "line": 19,
+        "name": "The help button works on the first scene",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 131174499
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"in the country-side\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 49267899
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"in the country-side\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 19441399
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "i click the \"Help\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 28544598
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"looking at the help page\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 17788999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "i click the \"Continue\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 31679598
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "my position should be \"in the country-side\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15501900
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "check-help-button;the-help-button-works-on-the-first-scene",
+        "keyword": "Scenario Outline",
+        "line": 20,
+        "name": "The help button works on the first scene",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 138884998
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I navigated to the position \"at the concert\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 70110899
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"at the concert\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6989399
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "i click the \"Help\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 47475299
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"looking at the help page\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15679899
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "i click the \"Continue\" button",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 28526998
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "my position should be \"at the concert\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2390100
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "check-help-button",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Check help button",
+    "tags": [],
+    "uri": "tests\\features\\check-help-button.feature"
+  },
+  {
     "description": "  As a user I want to check that I lose the game waiting repeatedly, regardless of the location I am at.",
     "elements": [
       {
@@ -15,11 +1261,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:6"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 1045368581
+              "duration": 109262998
             }
           },
           {
@@ -28,11 +1274,11 @@
             "line": 6,
             "name": "that I navigated to the position \"outside the cafe\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:15"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 3147540
+              "duration": 14002698
             }
           },
           {
@@ -41,11 +1287,11 @@
             "line": 7,
             "name": "that my position is \"outside the cafe\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:19"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 3450249
+              "duration": 15184798
             }
           },
           {
@@ -54,11 +1300,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:23"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\lose-the-game.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 211100998
+              "duration": 292437098
             }
           },
           {
@@ -67,11 +1313,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:31"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
             },
             "result": {
               "status": "passed",
-              "duration": 2286249
+              "duration": 4805798
             }
           }
         ],
@@ -91,11 +1337,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:6"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 40693957
+              "duration": 170717199
             }
           },
           {
@@ -104,11 +1350,11 @@
             "line": 6,
             "name": "that I navigated to the position \"inside the cafe\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:15"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 21876916
+              "duration": 40572098
             }
           },
           {
@@ -117,11 +1363,11 @@
             "line": 7,
             "name": "that my position is \"inside the cafe\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:19"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 2313332
+              "duration": 4388600
             }
           },
           {
@@ -130,11 +1376,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:23"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\lose-the-game.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 831850917
+              "duration": 1211189798
             }
           },
           {
@@ -143,11 +1389,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:31"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
             },
             "result": {
               "status": "passed",
-              "duration": 1901497
+              "duration": 16328899
             }
           }
         ],
@@ -167,11 +1413,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:6"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 38081706
+              "duration": 154315498
             }
           },
           {
@@ -180,11 +1426,11 @@
             "line": 6,
             "name": "that I navigated to the position \"on an empty street\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:15"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 24060998
+              "duration": 44826398
             }
           },
           {
@@ -193,11 +1439,11 @@
             "line": 7,
             "name": "that my position is \"on an empty street\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:19"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 2427416
+              "duration": 16623197
             }
           },
           {
@@ -206,11 +1452,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:23"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\lose-the-game.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 373219040
+              "duration": 635736499
             }
           },
           {
@@ -219,11 +1465,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:31"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
             },
             "result": {
               "status": "passed",
-              "duration": 1815250
+              "duration": 15371299
             }
           }
         ],
@@ -243,11 +1489,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:6"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 37448041
+              "duration": 164580400
             }
           },
           {
@@ -256,11 +1502,11 @@
             "line": 6,
             "name": "that I navigated to the position \"in a crowded bar\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:15"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 51030581
+              "duration": 81021798
             }
           },
           {
@@ -269,11 +1515,11 @@
             "line": 7,
             "name": "that my position is \"in a crowded bar\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:19"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 2047747
+              "duration": 16879198
             }
           },
           {
@@ -282,11 +1528,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:23"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\lose-the-game.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 598043374
+              "duration": 1183841298
             }
           },
           {
@@ -295,11 +1541,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:31"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
             },
             "result": {
               "status": "passed",
-              "duration": 1894207
+              "duration": 12578198
             }
           }
         ],
@@ -319,11 +1565,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:6"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 37485456
+              "duration": 200863098
             }
           },
           {
@@ -332,11 +1578,11 @@
             "line": 6,
             "name": "that I navigated to the position \"in the country-side\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:15"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 26467164
+              "duration": 51635597
             }
           },
           {
@@ -345,11 +1591,11 @@
             "line": 7,
             "name": "that my position is \"in the country-side\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:19"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 2261205
+              "duration": 9945299
             }
           },
           {
@@ -358,11 +1604,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:23"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\lose-the-game.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 347780166
+              "duration": 739907699
             }
           },
           {
@@ -371,11 +1617,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:31"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
             },
             "result": {
               "status": "passed",
-              "duration": 2061956
+              "duration": 7785800
             }
           }
         ],
@@ -395,11 +1641,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:6"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 36782707
+              "duration": 161713600
             }
           },
           {
@@ -408,11 +1654,11 @@
             "line": 6,
             "name": "that I navigated to the position \"at the concert\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:15"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 43166749
+              "duration": 78104698
             }
           },
           {
@@ -421,11 +1667,11 @@
             "line": 7,
             "name": "that my position is \"at the concert\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:19"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 2479123
+              "duration": 7621799
             }
           },
           {
@@ -434,11 +1680,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:23"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\lose-the-game.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 139256497
+              "duration": 250610398
             }
           },
           {
@@ -447,11 +1693,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:/Users/thomasfrank/Playwright-Cucumber-e2e-test-example/tests/features/step-definitions/lose-the-game.js:31"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:31"
             },
             "result": {
               "status": "passed",
-              "duration": 1841291
+              "duration": 14916399
             }
           }
         ],
@@ -464,6 +1710,6 @@
     "keyword": "Feature",
     "name": "I lose the game by waiting",
     "tags": [],
-    "uri": "tests/features/lose-the-game.feature"
+    "uri": "tests\\features\\lose-the-game.feature"
   }
 ]
