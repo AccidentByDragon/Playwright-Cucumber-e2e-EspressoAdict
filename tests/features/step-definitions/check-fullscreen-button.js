@@ -14,8 +14,11 @@ Then('the game should go fullscreen', async function () {
 });
 
 Then('i should exit fullscreen', async function () {
-/*   let isFullscreen = await this.driver.executeScript(() => !!document.fullscreenElement);
-  expect(isFullscreen).to.be.false; */
   expect(await this.page.getByText("Full Screen")).to.exist;
-  //expect(await this.page.getByText("Full Screen")).toBeVisible(); kan vi göra detta istället?
+
+/*   let element = await this.page.getByText("Full Screen")
+  let elementVisiblity = element.checkVisibilty(element);
+  expect(elementVisiblity).to.be.true; */
+
+  // expect(await this.page.getByText("Full Screen")).toBeVisible(); kan vi göra detta istället?
 });
