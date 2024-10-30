@@ -10,11 +10,12 @@ import { expect } from 'chai';
 ); */
 
 Then('the game should go fullscreen', async function () {
-/*   let isFullscreen = await this.driver.executeScript(() => !!document.fullscreenElement);
-  expect(isFullscreen).to.be.true; */
+  expect(await this.page.getByText("::backdrop")).to.exist;
 });
 
 Then('i should exit fullscreen', async function () {
 /*   let isFullscreen = await this.driver.executeScript(() => !!document.fullscreenElement);
   expect(isFullscreen).to.be.false; */
+  expect(await this.page.getByText("Full Screen")).to.exist;
+  //expect(await this.page.getByText("Full Screen")).toBeVisible(); kan vi göra detta istället?
 });

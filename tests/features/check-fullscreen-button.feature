@@ -7,7 +7,7 @@ Feature: Check fullscreen button
     And that my position is "<location>"
     When i click the "Full screen" button
     Then the game should go fullscreen
-    When i press "ESCAPE"
+    When i press "Escape"
     Then i should exit fullscreen
 
     Examples:

@@ -19,7 +19,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 194829498
+              "duration": 276572800
             }
           },
           {
@@ -32,7 +32,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 16291298
+              "duration": 15234497
             }
           },
           {
@@ -45,7 +45,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 15646598
+              "duration": 15394299
             }
           },
           {
@@ -58,7 +58,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 45616698
+              "duration": 41774197
             }
           },
           {
@@ -71,20 +71,20 @@
             },
             "result": {
               "status": "passed",
-              "duration": 15233098
+              "duration": 5205599
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
             "line": 10,
-            "name": "i press \"ESCAPE\"",
+            "name": "i press \"Escape\"",
             "match": {
               "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
             },
             "result": {
               "status": "passed",
-              "duration": 15005897
+              "duration": 3409097
             }
           },
           {
@@ -93,11 +93,11 @@
             "line": 11,
             "name": "i should exit fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:17"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:16"
             },
             "result": {
               "status": "passed",
-              "duration": 3077898
+              "duration": 11396398
             }
           }
         ],
@@ -121,7 +121,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 86278800
+              "duration": 90927999
             }
           },
           {
@@ -134,7 +134,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 54524398
+              "duration": 48798299
             }
           },
           {
@@ -147,7 +147,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2825897
+              "duration": 12234998
             }
           },
           {
@@ -160,7 +160,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 48629098
+              "duration": 37482297
             }
           },
           {
@@ -173,20 +173,20 @@
             },
             "result": {
               "status": "passed",
-              "duration": 15729298
+              "duration": 8842398
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
             "line": 10,
-            "name": "i press \"ESCAPE\"",
+            "name": "i press \"Escape\"",
             "match": {
               "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
             },
             "result": {
               "status": "passed",
-              "duration": 15156399
+              "duration": 15338698
             }
           },
           {
@@ -195,11 +195,11 @@
             "line": 11,
             "name": "i should exit fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:17"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:16"
             },
             "result": {
               "status": "passed",
-              "duration": 6827700
+              "duration": 15410798
             }
           }
         ],
@@ -223,7 +223,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 95408999
+              "duration": 102849199
             }
           },
           {
@@ -236,7 +236,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 38105698
+              "duration": 49959798
             }
           },
           {
@@ -249,7 +249,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 4681897
+              "duration": 7967299
             }
           },
           {
@@ -262,7 +262,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 35074698
+              "duration": 50406998
             }
           },
           {
@@ -275,20 +275,20 @@
             },
             "result": {
               "status": "passed",
-              "duration": 15756698
+              "duration": 15399900
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
             "line": 10,
-            "name": "i press \"ESCAPE\"",
+            "name": "i press \"Escape\"",
             "match": {
               "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
             },
             "result": {
               "status": "passed",
-              "duration": 15135800
+              "duration": 15568399
             }
           },
           {
@@ -297,11 +297,11 @@
             "line": 11,
             "name": "i should exit fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:17"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:16"
             },
             "result": {
               "status": "passed",
-              "duration": 5490698
+              "duration": 2002599
             }
           }
         ],
@@ -325,7 +325,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 106540300
+              "duration": 105099199
             }
           },
           {
@@ -338,7 +338,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 92811498
+              "duration": 82934199
             }
           },
           {
@@ -351,7 +351,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 4140798
+              "duration": 9281997
             }
           },
           {
@@ -364,7 +364,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 27494799
+              "duration": 46864498
             }
           },
           {
@@ -377,20 +377,20 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3406600
+              "duration": 15614298
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
             "line": 10,
-            "name": "i press \"ESCAPE\"",
+            "name": "i press \"Escape\"",
             "match": {
               "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
             },
             "result": {
               "status": "passed",
-              "duration": 15443598
+              "duration": 15952099
             }
           },
           {
@@ -399,11 +399,11 @@
             "line": 11,
             "name": "i should exit fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:17"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:16"
             },
             "result": {
               "status": "passed",
-              "duration": 15866798
+              "duration": 5881399
             }
           }
         ],
@@ -427,7 +427,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 100867498
+              "duration": 110676198
             }
           },
           {
@@ -440,7 +440,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 51337700
+              "duration": 39353298
             }
           },
           {
@@ -453,7 +453,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 5142999
+              "duration": 7162897
             }
           },
           {
@@ -466,7 +466,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 43037499
+              "duration": 31918398
             }
           },
           {
@@ -479,20 +479,20 @@
             },
             "result": {
               "status": "passed",
-              "duration": 15276498
+              "duration": 15387399
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
             "line": 10,
-            "name": "i press \"ESCAPE\"",
+            "name": "i press \"Escape\"",
             "match": {
               "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
             },
             "result": {
               "status": "passed",
-              "duration": 1123900
+              "duration": 15223998
             }
           },
           {
@@ -501,11 +501,11 @@
             "line": 11,
             "name": "i should exit fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:17"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:16"
             },
             "result": {
               "status": "passed",
-              "duration": 14736098
+              "duration": 6396898
             }
           }
         ],
@@ -529,7 +529,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 121219497
+              "duration": 126101298
             }
           },
           {
@@ -542,7 +542,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 77268299
+              "duration": 77984498
             }
           },
           {
@@ -555,7 +555,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2097698
+              "duration": 4562198
             }
           },
           {
@@ -568,7 +568,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 29247998
+              "duration": 31578499
             }
           },
           {
@@ -581,20 +581,20 @@
             },
             "result": {
               "status": "passed",
-              "duration": 15024598
+              "duration": 15079000
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
             "line": 10,
-            "name": "i press \"ESCAPE\"",
+            "name": "i press \"Escape\"",
             "match": {
               "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
             },
             "result": {
               "status": "passed",
-              "duration": 14943699
+              "duration": 15561500
             }
           },
           {
@@ -603,11 +603,11 @@
             "line": 11,
             "name": "i should exit fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:17"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:16"
             },
             "result": {
               "status": "passed",
-              "duration": 11157798
+              "duration": 9992498
             }
           }
         ],
@@ -642,7 +642,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 118782599
+              "duration": 111926299
             }
           },
           {
@@ -655,7 +655,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 6281599
+              "duration": 15495799
             }
           },
           {
@@ -668,7 +668,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1450397
+              "duration": 14721499
             }
           },
           {
@@ -681,7 +681,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 43101197
+              "duration": 15213498
             }
           },
           {
@@ -690,11 +690,11 @@
             "line": 9,
             "name": "my position should be \"looking at the help page\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 9375098
+              "duration": 2735899
             }
           },
           {
@@ -707,7 +707,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 55480999
+              "duration": 27912398
             }
           },
           {
@@ -716,11 +716,11 @@
             "line": 11,
             "name": "my position should be \"outside the cafe\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 15669798
+              "duration": 15702599
             }
           }
         ],
@@ -744,7 +744,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 137264499
+              "duration": 109316399
             }
           },
           {
@@ -757,7 +757,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 29102498
+              "duration": 39172797
             }
           },
           {
@@ -770,7 +770,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 9804900
+              "duration": 6982500
             }
           },
           {
@@ -783,7 +783,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 54810800
+              "duration": 42608900
             }
           },
           {
@@ -792,11 +792,11 @@
             "line": 9,
             "name": "my position should be \"looking at the help page\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 15152999
+              "duration": 2826099
             }
           },
           {
@@ -809,7 +809,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 30927200
+              "duration": 32050298
             }
           },
           {
@@ -818,11 +818,11 @@
             "line": 11,
             "name": "my position should be \"inside the cafe\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 14650798
+              "duration": 15748499
             }
           }
         ],
@@ -846,7 +846,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 114978899
+              "duration": 121749500
             }
           },
           {
@@ -859,7 +859,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 41085297
+              "duration": 46874199
             }
           },
           {
@@ -872,7 +872,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 8532900
+              "duration": 5117699
             }
           },
           {
@@ -885,7 +885,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 49405397
+              "duration": 41765497
             }
           },
           {
@@ -894,11 +894,11 @@
             "line": 9,
             "name": "my position should be \"looking at the help page\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 15440000
+              "duration": 1837098
             }
           },
           {
@@ -911,7 +911,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 30200197
+              "duration": 44060597
             }
           },
           {
@@ -920,11 +920,11 @@
             "line": 11,
             "name": "my position should be \"on an empty street\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 15630799
+              "duration": 15822299
             }
           }
         ],
@@ -948,7 +948,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 116785698
+              "duration": 137723299
             }
           },
           {
@@ -961,7 +961,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 83329799
+              "duration": 77903299
             }
           },
           {
@@ -974,7 +974,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 15442898
+              "duration": 15136199
             }
           },
           {
@@ -987,7 +987,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 27859299
+              "duration": 42881399
             }
           },
           {
@@ -996,11 +996,11 @@
             "line": 9,
             "name": "my position should be \"looking at the help page\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 3530298
+              "duration": 18419097
             }
           },
           {
@@ -1013,7 +1013,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 28364000
+              "duration": 31094399
             }
           },
           {
@@ -1022,11 +1022,11 @@
             "line": 11,
             "name": "my position should be \"in a crowded bar\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 2826399
+              "duration": 14978299
             }
           }
         ],
@@ -1050,7 +1050,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 127173198
+              "duration": 103945298
             }
           },
           {
@@ -1063,7 +1063,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 36613997
+              "duration": 47857198
             }
           },
           {
@@ -1076,7 +1076,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1826297
+              "duration": 14991597
             }
           },
           {
@@ -1089,7 +1089,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 30971799
+              "duration": 31766999
             }
           },
           {
@@ -1098,11 +1098,11 @@
             "line": 9,
             "name": "my position should be \"looking at the help page\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 5694599
+              "duration": 15465000
             }
           },
           {
@@ -1115,7 +1115,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 31520198
+              "duration": 26337998
             }
           },
           {
@@ -1124,11 +1124,11 @@
             "line": 11,
             "name": "my position should be \"in the country-side\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 15285299
+              "duration": 4191499
             }
           }
         ],
@@ -1152,7 +1152,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 134565499
+              "duration": 123442798
             }
           },
           {
@@ -1165,7 +1165,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 100529297
+              "duration": 93605798
             }
           },
           {
@@ -1178,7 +1178,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 10131498
+              "duration": 15252298
             }
           },
           {
@@ -1191,7 +1191,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 37136898
+              "duration": 30957699
             }
           },
           {
@@ -1200,11 +1200,11 @@
             "line": 9,
             "name": "my position should be \"looking at the help page\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 8700398
+              "duration": 15715798
             }
           },
           {
@@ -1217,7 +1217,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 47001999
+              "duration": 45753698
             }
           },
           {
@@ -1226,11 +1226,11 @@
             "line": 11,
             "name": "my position should be \"at the concert\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 15747597
+              "duration": 15185899
             }
           }
         ],
@@ -1265,7 +1265,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 137527698
+              "duration": 176018399
             }
           },
           {
@@ -1278,7 +1278,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 15289197
+              "duration": 4966799
             }
           },
           {
@@ -1291,7 +1291,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 15640600
+              "duration": 15647199
             }
           },
           {
@@ -1304,7 +1304,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 359500299
+              "duration": 235058397
             }
           },
           {
@@ -1313,11 +1313,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 1660498
+              "duration": 13879898
             }
           }
         ],
@@ -1341,7 +1341,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 141211398
+              "duration": 140346399
             }
           },
           {
@@ -1354,7 +1354,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 53077399
+              "duration": 45695097
             }
           },
           {
@@ -1367,7 +1367,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 8855200
+              "duration": 8105999
             }
           },
           {
@@ -1380,7 +1380,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1460018099
+              "duration": 1224543699
             }
           },
           {
@@ -1389,11 +1389,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 5512398
+              "duration": 7423299
             }
           }
         ],
@@ -1417,7 +1417,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 138935998
+              "duration": 144461199
             }
           },
           {
@@ -1430,7 +1430,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 48650699
+              "duration": 45041697
             }
           },
           {
@@ -1443,7 +1443,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1985499
+              "duration": 8547599
             }
           },
           {
@@ -1456,7 +1456,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 723842898
+              "duration": 685001398
             }
           },
           {
@@ -1465,11 +1465,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 15515498
+              "duration": 15001397
             }
           }
         ],
@@ -1493,7 +1493,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 149949299
+              "duration": 153701399
             }
           },
           {
@@ -1506,7 +1506,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 74332597
+              "duration": 87893398
             }
           },
           {
@@ -1519,7 +1519,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 7644399
+              "duration": 3867100
             }
           },
           {
@@ -1532,7 +1532,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1145452999
+              "duration": 1212073298
             }
           },
           {
@@ -1541,11 +1541,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 7845399
+              "duration": 15294898
             }
           }
         ],
@@ -1569,7 +1569,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 185934599
+              "duration": 151238198
             }
           },
           {
@@ -1582,7 +1582,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 37706299
+              "duration": 47529098
             }
           },
           {
@@ -1595,7 +1595,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 7173499
+              "duration": 1234599
             }
           },
           {
@@ -1608,7 +1608,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 758239399
+              "duration": 697994500
             }
           },
           {
@@ -1617,11 +1617,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 16723399
+              "duration": 3105798
             }
           }
         ],
@@ -1645,7 +1645,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 147625799
+              "duration": 170470200
             }
           },
           {
@@ -1658,7 +1658,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 82000099
+              "duration": 73588999
             }
           },
           {
@@ -1671,7 +1671,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 17192199
+              "duration": 2330497
             }
           },
           {
@@ -1684,7 +1684,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 263914800
+              "duration": 248203399
             }
           },
           {
@@ -1693,11 +1693,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 15158298
+              "duration": 14014998
             }
           }
         ],
