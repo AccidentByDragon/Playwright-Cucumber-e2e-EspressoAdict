@@ -1,4 +1,4 @@
-/* all of the steps for this test are covered by Common steps:
+/* Alla steg för denna test finns redan i common steps:
 Given('that I have started the game by navigating to {string}', async function (url)
 Given('that I navigated to the position {string}', async function (to)
 Given('that my position is {string}', async function (position)
