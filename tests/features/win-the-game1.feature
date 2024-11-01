@@ -13,7 +13,7 @@ One way to win the game
 
   Scenario: I stay at the crowded friendly bar and wait for the bartender to give me a "beer"
     Given that my position is "in a crowded bar"
-    When I wait long enough
+    When I wait long enough for the description to contain the text "The bartender offers you a can of beer for free"
     Then I should recieve 1 "beer"
 
   Scenario: I navigate from outside the crowded friendly bar to the guitarist and the sax player
@@ -23,12 +23,12 @@ One way to win the game
 
   Scenario: I stay with guitarist and the sax player
     Given that my position is "at the concert"
-    When I wait long enough
-    Then I should get the option to "jam with the band"
+    When I wait long enough for the description to contain the text "The guitarist shouts out to you"
+    Then I should get the option to "Jam with the band"
 
   Scenario: I choose to jam with the guitarist and the sax player
     Given that my position is "at the concert"
-    And I choose to "jam with the band"
+    And I choose to "Jam with the band"
     Then I should recieve 5 "money"
 
   Scenario: I navigate from the guitarist and the sax player to inside the Cloud Forest Cafe
@@ -39,26 +39,26 @@ One way to win the game
 
   Scenario: I stay at the Cloud Forest Cafe and wait for the barista to call a friend
     Given that my position is "inside the cafe"
-    When I wait long enough
-    Then I should get the option to "Give barista a beer"
+    When I wait long enough for the description to contain the text "The barista is in a dark corner phoning a friend"
+    Then I should get the option to "Give beer to barista"
 
   Scenario: I give the barista my beer
     Given that my position is "inside the cafe"
-    And I choose to "Give barista a beer"
-    Then I should recieve 2 "espressos"
+    And I choose to "Give beer to barista"
+    Then I should recieve 2 "espressocups"
 
   Scenario: I buy the third espresso of the day
     Given that my position is "inside the cafe"
-    And I choose to "buy an espresso"
-    Then I should recieve 1 "espressos"
+    And I choose to "Buy an espresso"
+    Then I should recieve 1 "espressocups"
 
   Scenario: I buy the fourth espresso of the day
     Given that my position is "inside the cafe"
-    And I choose to "buy an espresso"
-    Then I should recieve 1 "espressos"
+    And I choose to "Buy an espresso"
+    Then I should recieve 1 "espressocups"
 
   Scenario: I buy the fifth espresso of the day
     Given that my position is "inside the cafe"
-    And I choose to "buy an espresso"
-    Then I should recieve 1 "espressos"
+    And I choose to "Buy an espresso"
+    Then I should recieve 1 "espressocups"
     And my position should be "I won"

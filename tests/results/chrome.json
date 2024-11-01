@@ -15,11 +15,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 222118399
+              "duration": 491518300
             }
           },
           {
@@ -28,11 +28,11 @@
             "line": 6,
             "name": "that I navigated to the position \"outside the cafe\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 15451199
+              "duration": 14697898
             }
           },
           {
@@ -41,11 +41,11 @@
             "line": 7,
             "name": "that my position is \"outside the cafe\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 6397199
+              "duration": 15398498
             }
           },
           {
@@ -54,11 +54,11 @@
             "line": 8,
             "name": "i click the \"Full screen\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 39030298
+              "duration": 45925298
             }
           },
           {
@@ -67,11 +67,11 @@
             "line": 9,
             "name": "the game should go fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:14"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\check-fullscreen-button.js:14"
             },
             "result": {
               "status": "passed",
-              "duration": 15996698
+              "duration": 13678099
             }
           },
           {
@@ -80,11 +80,11 @@
             "line": 10,
             "name": "i press \"Escape\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:27"
             },
             "result": {
               "status": "passed",
-              "duration": 11157298
+              "duration": 6942599
             }
           },
           {
@@ -93,11 +93,11 @@
             "line": 11,
             "name": "i should exit fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:18"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\check-fullscreen-button.js:18"
             },
             "result": {
               "status": "passed",
-              "duration": 517082998
+              "duration": 517174299
             }
           }
         ],
@@ -117,11 +117,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 85369699
+              "duration": 197951699
             }
           },
           {
@@ -130,11 +130,11 @@
             "line": 6,
             "name": "that I navigated to the position \"inside the cafe\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 48944698
+              "duration": 90319999
             }
           },
           {
@@ -143,11 +143,11 @@
             "line": 7,
             "name": "that my position is \"inside the cafe\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 8099097
+              "duration": 14637998
             }
           },
           {
@@ -156,11 +156,11 @@
             "line": 8,
             "name": "i click the \"Full screen\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 51384699
+              "duration": 26505099
             }
           },
           {
@@ -169,11 +169,11 @@
             "line": 9,
             "name": "the game should go fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:14"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\check-fullscreen-button.js:14"
             },
             "result": {
               "status": "passed",
-              "duration": 15642298
+              "duration": 3870899
             }
           },
           {
@@ -182,11 +182,11 @@
             "line": 10,
             "name": "i press \"Escape\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:27"
             },
             "result": {
               "status": "passed",
-              "duration": 15337299
+              "duration": 14755698
             }
           },
           {
@@ -195,11 +195,11 @@
             "line": 11,
             "name": "i should exit fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:18"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\check-fullscreen-button.js:18"
             },
             "result": {
               "status": "passed",
-              "duration": 525323498
+              "duration": 521818100
             }
           }
         ],
@@ -219,11 +219,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 81330797
+              "duration": 161068098
             }
           },
           {
@@ -232,11 +232,11 @@
             "line": 6,
             "name": "that I navigated to the position \"on an empty street\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 47850400
+              "duration": 85208898
             }
           },
           {
@@ -245,11 +245,11 @@
             "line": 7,
             "name": "that my position is \"on an empty street\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 8111498
+              "duration": 4610499
             }
           },
           {
@@ -258,11 +258,11 @@
             "line": 8,
             "name": "i click the \"Full screen\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 40579498
+              "duration": 39587099
             }
           },
           {
@@ -271,11 +271,11 @@
             "line": 9,
             "name": "the game should go fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:14"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\check-fullscreen-button.js:14"
             },
             "result": {
               "status": "passed",
-              "duration": 6266800
+              "duration": 6687598
             }
           },
           {
@@ -284,11 +284,11 @@
             "line": 10,
             "name": "i press \"Escape\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:27"
             },
             "result": {
               "status": "passed",
-              "duration": 14776199
+              "duration": 8187298
             }
           },
           {
@@ -297,11 +297,11 @@
             "line": 11,
             "name": "i should exit fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:18"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\check-fullscreen-button.js:18"
             },
             "result": {
               "status": "passed",
-              "duration": 526019898
+              "duration": 521911398
             }
           }
         ],
@@ -321,11 +321,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 112697900
+              "duration": 163344397
             }
           },
           {
@@ -334,11 +334,11 @@
             "line": 6,
             "name": "that I navigated to the position \"in a crowded bar\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 91001398
+              "duration": 128222699
             }
           },
           {
@@ -347,11 +347,11 @@
             "line": 7,
             "name": "that my position is \"in a crowded bar\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 2034898
+              "duration": 14861200
             }
           },
           {
@@ -360,11 +360,11 @@
             "line": 8,
             "name": "i click the \"Full screen\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 56608399
+              "duration": 27002299
             }
           },
           {
@@ -373,11 +373,11 @@
             "line": 9,
             "name": "the game should go fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:14"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\check-fullscreen-button.js:14"
             },
             "result": {
               "status": "passed",
-              "duration": 15480199
+              "duration": 861799
             }
           },
           {
@@ -386,11 +386,11 @@
             "line": 10,
             "name": "i press \"Escape\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:27"
             },
             "result": {
               "status": "passed",
-              "duration": 14773298
+              "duration": 13839698
             }
           },
           {
@@ -399,11 +399,11 @@
             "line": 11,
             "name": "i should exit fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:18"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\check-fullscreen-button.js:18"
             },
             "result": {
               "status": "passed",
-              "duration": 527197900
+              "duration": 528871599
             }
           }
         ],
@@ -423,11 +423,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 150988099
+              "duration": 170329700
             }
           },
           {
@@ -436,11 +436,11 @@
             "line": 6,
             "name": "that I navigated to the position \"in the country-side\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 46716298
+              "duration": 69787198
             }
           },
           {
@@ -449,11 +449,11 @@
             "line": 7,
             "name": "that my position is \"in the country-side\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 3085900
+              "duration": 17161798
             }
           },
           {
@@ -462,11 +462,11 @@
             "line": 8,
             "name": "i click the \"Full screen\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 43707600
+              "duration": 30843998
             }
           },
           {
@@ -475,11 +475,11 @@
             "line": 9,
             "name": "the game should go fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:14"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\check-fullscreen-button.js:14"
             },
             "result": {
               "status": "passed",
-              "duration": 15815598
+              "duration": 6529600
             }
           },
           {
@@ -488,11 +488,11 @@
             "line": 10,
             "name": "i press \"Escape\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:27"
             },
             "result": {
               "status": "passed",
-              "duration": 15388597
+              "duration": 8269898
             }
           },
           {
@@ -501,11 +501,11 @@
             "line": 11,
             "name": "i should exit fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:18"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\check-fullscreen-button.js:18"
             },
             "result": {
               "status": "passed",
-              "duration": 526827998
+              "duration": 526152798
             }
           }
         ],
@@ -525,11 +525,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 105667799
+              "duration": 168350499
             }
           },
           {
@@ -538,11 +538,11 @@
             "line": 6,
             "name": "that I navigated to the position \"at the concert\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 98483198
+              "duration": 96755598
             }
           },
           {
@@ -551,11 +551,11 @@
             "line": 7,
             "name": "that my position is \"at the concert\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 9194799
+              "duration": 10984599
             }
           },
           {
@@ -564,11 +564,11 @@
             "line": 8,
             "name": "i click the \"Full screen\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 44647597
+              "duration": 30012797
             }
           },
           {
@@ -577,11 +577,11 @@
             "line": 9,
             "name": "the game should go fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:14"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\check-fullscreen-button.js:14"
             },
             "result": {
               "status": "passed",
-              "duration": 15816699
+              "duration": 9053898
             }
           },
           {
@@ -590,11 +590,11 @@
             "line": 10,
             "name": "i press \"Escape\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:27"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:27"
             },
             "result": {
               "status": "passed",
-              "duration": 14831897
+              "duration": 6568299
             }
           },
           {
@@ -603,11 +603,11 @@
             "line": 11,
             "name": "i should exit fullscreen",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\check-fullscreen-button.js:18"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\check-fullscreen-button.js:18"
             },
             "result": {
               "status": "passed",
-              "duration": 519808999
+              "duration": 525131697
             }
           }
         ],
@@ -638,11 +638,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 142964900
+              "duration": 199705199
             }
           },
           {
@@ -651,11 +651,11 @@
             "line": 6,
             "name": "that I navigated to the position \"outside the cafe\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 15632297
+              "duration": 15251099
             }
           },
           {
@@ -664,11 +664,11 @@
             "line": 7,
             "name": "that my position is \"outside the cafe\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 15768998
+              "duration": 3530599
             }
           },
           {
@@ -677,11 +677,11 @@
             "line": 8,
             "name": "i click the \"Help\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 15477699
+              "duration": 24836698
             }
           },
           {
@@ -690,11 +690,11 @@
             "line": 9,
             "name": "my position should be \"looking at the help page\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 9643099
+              "duration": 17772299
             }
           },
           {
@@ -703,11 +703,11 @@
             "line": 10,
             "name": "i click the \"Continue\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 53240800
+              "duration": 30884999
             }
           },
           {
@@ -716,11 +716,11 @@
             "line": 11,
             "name": "my position should be \"outside the cafe\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 14691097
+              "duration": 14791898
             }
           }
         ],
@@ -740,11 +740,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 95112097
+              "duration": 185611798
             }
           },
           {
@@ -753,11 +753,11 @@
             "line": 6,
             "name": "that I navigated to the position \"inside the cafe\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 42756798
+              "duration": 75328698
             }
           },
           {
@@ -766,11 +766,11 @@
             "line": 7,
             "name": "that my position is \"inside the cafe\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 3584798
+              "duration": 12535797
             }
           },
           {
@@ -779,11 +779,11 @@
             "line": 8,
             "name": "i click the \"Help\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 42281598
+              "duration": 27148298
             }
           },
           {
@@ -792,11 +792,11 @@
             "line": 9,
             "name": "my position should be \"looking at the help page\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 15919099
+              "duration": 19078597
             }
           },
           {
@@ -805,11 +805,11 @@
             "line": 10,
             "name": "i click the \"Continue\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 31302999
+              "duration": 26669900
             }
           },
           {
@@ -818,11 +818,11 @@
             "line": 11,
             "name": "my position should be \"inside the cafe\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 15830099
+              "duration": 4453099
             }
           }
         ],
@@ -842,11 +842,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 106117599
+              "duration": 196215800
             }
           },
           {
@@ -855,11 +855,11 @@
             "line": 6,
             "name": "that I navigated to the position \"on an empty street\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 48554697
+              "duration": 62792398
             }
           },
           {
@@ -868,11 +868,11 @@
             "line": 7,
             "name": "that my position is \"on an empty street\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 14036299
+              "duration": 17305498
             }
           },
           {
@@ -881,11 +881,11 @@
             "line": 8,
             "name": "i click the \"Help\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 45331798
+              "duration": 43513400
             }
           },
           {
@@ -894,11 +894,11 @@
             "line": 9,
             "name": "my position should be \"looking at the help page\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 15326998
+              "duration": 14853698
             }
           },
           {
@@ -907,11 +907,11 @@
             "line": 10,
             "name": "i click the \"Continue\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 31449199
+              "duration": 18093197
             }
           },
           {
@@ -920,11 +920,11 @@
             "line": 11,
             "name": "my position should be \"on an empty street\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 16008800
+              "duration": 11827900
             }
           }
         ],
@@ -944,11 +944,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 122229398
+              "duration": 175912499
             }
           },
           {
@@ -957,11 +957,11 @@
             "line": 6,
             "name": "that I navigated to the position \"in a crowded bar\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 108271600
+              "duration": 81967697
             }
           },
           {
@@ -970,11 +970,11 @@
             "line": 7,
             "name": "that my position is \"in a crowded bar\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 15668498
+              "duration": 15909100
             }
           },
           {
@@ -983,11 +983,11 @@
             "line": 8,
             "name": "i click the \"Help\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 45990698
+              "duration": 27060599
             }
           },
           {
@@ -996,11 +996,11 @@
             "line": 9,
             "name": "my position should be \"looking at the help page\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 15471098
+              "duration": 18494998
             }
           },
           {
@@ -1009,11 +1009,11 @@
             "line": 10,
             "name": "i click the \"Continue\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 30877098
+              "duration": 30836998
             }
           },
           {
@@ -1022,11 +1022,11 @@
             "line": 11,
             "name": "my position should be \"in a crowded bar\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 15060399
+              "duration": 14888500
             }
           }
         ],
@@ -1046,11 +1046,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 121607000
+              "duration": 144290199
             }
           },
           {
@@ -1059,11 +1059,11 @@
             "line": 6,
             "name": "that I navigated to the position \"in the country-side\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 58455798
+              "duration": 66043197
             }
           },
           {
@@ -1072,11 +1072,11 @@
             "line": 7,
             "name": "that my position is \"in the country-side\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 5278498
+              "duration": 17704698
             }
           },
           {
@@ -1085,11 +1085,11 @@
             "line": 8,
             "name": "i click the \"Help\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 59601598
+              "duration": 31269199
             }
           },
           {
@@ -1098,11 +1098,11 @@
             "line": 9,
             "name": "my position should be \"looking at the help page\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 18123398
+              "duration": 15115600
             }
           },
           {
@@ -1111,11 +1111,11 @@
             "line": 10,
             "name": "i click the \"Continue\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 24709698
+              "duration": 30108199
             }
           },
           {
@@ -1124,11 +1124,11 @@
             "line": 11,
             "name": "my position should be \"in the country-side\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 6190299
+              "duration": 14752199
             }
           }
         ],
@@ -1148,11 +1148,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 137417799
+              "duration": 181017300
             }
           },
           {
@@ -1161,11 +1161,11 @@
             "line": 6,
             "name": "that I navigated to the position \"at the concert\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 103709399
+              "duration": 108568899
             }
           },
           {
@@ -1174,11 +1174,11 @@
             "line": 7,
             "name": "that my position is \"at the concert\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 6962797
+              "duration": 18631699
             }
           },
           {
@@ -1187,11 +1187,11 @@
             "line": 8,
             "name": "i click the \"Help\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 46062799
+              "duration": 29751997
             }
           },
           {
@@ -1200,11 +1200,11 @@
             "line": 9,
             "name": "my position should be \"looking at the help page\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 15326098
+              "duration": 16540499
             }
           },
           {
@@ -1213,11 +1213,11 @@
             "line": 10,
             "name": "i click the \"Continue\" button",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:23"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 30379999
+              "duration": 28951198
             }
           },
           {
@@ -1226,11 +1226,11 @@
             "line": 11,
             "name": "my position should be \"at the concert\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 14988800
+              "duration": 16672599
             }
           }
         ],
@@ -1261,11 +1261,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 143527299
+              "duration": 133684399
             }
           },
           {
@@ -1274,11 +1274,11 @@
             "line": 6,
             "name": "that I navigated to the position \"outside the cafe\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 9606300
+              "duration": 5027797
             }
           },
           {
@@ -1287,11 +1287,11 @@
             "line": 7,
             "name": "that my position is \"outside the cafe\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 16033598
+              "duration": 29372499
             }
           },
           {
@@ -1300,11 +1300,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\lose-the-game.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\lose-the-game.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 349555899
+              "duration": 307678899
             }
           },
           {
@@ -1313,11 +1313,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 5322799
+              "duration": 15311798
             }
           }
         ],
@@ -1337,11 +1337,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 142382998
+              "duration": 182065398
             }
           },
           {
@@ -1350,11 +1350,11 @@
             "line": 6,
             "name": "that I navigated to the position \"inside the cafe\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 57430298
+              "duration": 73478198
             }
           },
           {
@@ -1363,11 +1363,11 @@
             "line": 7,
             "name": "that my position is \"inside the cafe\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 15545099
+              "duration": 17843798
             }
           },
           {
@@ -1376,11 +1376,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\lose-the-game.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\lose-the-game.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 1349574998
+              "duration": 1313815900
             }
           },
           {
@@ -1389,11 +1389,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 16031800
+              "duration": 14825899
             }
           }
         ],
@@ -1413,11 +1413,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 153438098
+              "duration": 175325097
             }
           },
           {
@@ -1426,11 +1426,11 @@
             "line": 6,
             "name": "that I navigated to the position \"on an empty street\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 39836598
+              "duration": 71193499
             }
           },
           {
@@ -1439,11 +1439,11 @@
             "line": 7,
             "name": "that my position is \"on an empty street\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 5968199
+              "duration": 16168599
             }
           },
           {
@@ -1452,11 +1452,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\lose-the-game.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\lose-the-game.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 748873399
+              "duration": 738057699
             }
           },
           {
@@ -1465,11 +1465,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 15573999
+              "duration": 15154298
             }
           }
         ],
@@ -1489,11 +1489,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 129929298
+              "duration": 152548299
             }
           },
           {
@@ -1502,11 +1502,11 @@
             "line": 6,
             "name": "that I navigated to the position \"in a crowded bar\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 79757500
+              "duration": 116081498
             }
           },
           {
@@ -1515,11 +1515,11 @@
             "line": 7,
             "name": "that my position is \"in a crowded bar\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 5416598
+              "duration": 8486199
             }
           },
           {
@@ -1528,11 +1528,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\lose-the-game.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\lose-the-game.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 1267836898
+              "duration": 1262311998
             }
           },
           {
@@ -1541,11 +1541,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 8129098
+              "duration": 14497899
             }
           }
         ],
@@ -1565,11 +1565,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 180578899
+              "duration": 162459699
             }
           },
           {
@@ -1578,11 +1578,11 @@
             "line": 6,
             "name": "that I navigated to the position \"in the country-side\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 37517599
+              "duration": 85515398
             }
           },
           {
@@ -1591,11 +1591,11 @@
             "line": 7,
             "name": "that my position is \"in the country-side\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 8888398
+              "duration": 14824799
             }
           },
           {
@@ -1604,11 +1604,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\lose-the-game.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\lose-the-game.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 692671399
+              "duration": 707874499
             }
           },
           {
@@ -1617,11 +1617,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 8579698
+              "duration": 14830099
             }
           }
         ],
@@ -1641,11 +1641,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 215486897
+              "duration": 228842399
             }
           },
           {
@@ -1654,11 +1654,11 @@
             "line": 6,
             "name": "that I navigated to the position \"at the concert\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:15"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 88730798
+              "duration": 112565098
             }
           },
           {
@@ -1667,11 +1667,11 @@
             "line": 7,
             "name": "that my position is \"at the concert\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:19"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 3467898
+              "duration": 10076500
             }
           },
           {
@@ -1680,11 +1680,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\lose-the-game.js:6"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\lose-the-game.js:6"
             },
             "result": {
               "status": "passed",
-              "duration": 244328600
+              "duration": 247960298
             }
           },
           {
@@ -1693,11 +1693,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:\\C:\\Users\\Karl1\\Documents\\UniProjekt\\SeleniumPlaywriteCheatSheet\\Playwright-Cucumber-e2e-test-example-main\\tests\\features\\step-definitions\\common-steps.js:33"
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
             },
             "result": {
               "status": "passed",
-              "duration": 1719700
+              "duration": 15828300
             }
           }
         ],
@@ -1711,5 +1711,616 @@
     "name": "I lose the game by waiting",
     "tags": [],
     "uri": "tests\\features\\lose-the-game.feature"
+  },
+  {
+    "description": "One way to win the game",
+    "elements": [
+      {
+        "description": "",
+        "id": "win-the-game-1;at-the-right-place-with-the-right-starting-values",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "At the right place with the right starting values",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 200863398
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that my position is \"outside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 26674000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "win-the-game-1;i-navigate-from-outside-the-cloud-forest-cafe-to-a-crowded-friendly-bar",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "I navigate from outside the Cloud Forest Cafe to a crowded friendly bar",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 10,
+            "name": "that my position is \"outside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 13886999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 11,
+            "name": "that I navigated to the position \"in a crowded bar\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 90167598
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "my position should be \"in a crowded bar\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 16402597
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "win-the-game-1;i-stay-at-the-crowded-friendly-bar-and-wait-for-the-bartender-to-give-me-a-\"beer\"",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "I stay at the crowded friendly bar and wait for the bartender to give me a \"beer\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 15,
+            "name": "that my position is \"in a crowded bar\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 13776899
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 16,
+            "name": "I wait long enough for the description to contain the text \"The bartender offers you a can of beer for free\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\win-the-game1.js:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 122785798
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 17,
+            "name": "I should recieve 1 \"beer\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\win-the-game1.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 14922400
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "win-the-game-1;i-navigate-from-outside-the-crowded-friendly-bar-to-the-guitarist-and-the-sax-player",
+        "keyword": "Scenario",
+        "line": 19,
+        "name": "I navigate from outside the crowded friendly bar to the guitarist and the sax player",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 20,
+            "name": "that my position is \"in a crowded bar\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 13352899
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "that I navigated to the position \"at the concert\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 153790500
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "my position should be \"at the concert\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15196499
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "win-the-game-1;i-stay-with-guitarist-and-the-sax-player",
+        "keyword": "Scenario",
+        "line": 24,
+        "name": "I stay with guitarist and the sax player",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 25,
+            "name": "that my position is \"at the concert\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 13798998
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 26,
+            "name": "I wait long enough for the description to contain the text \"The guitarist shouts out to you\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\win-the-game1.js:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 122507498
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 27,
+            "name": "I should get the option to \"Jam with the band\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\win-the-game1.js:47"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15737199
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "win-the-game-1;i-choose-to-jam-with-the-guitarist-and-the-sax-player",
+        "keyword": "Scenario",
+        "line": 29,
+        "name": "I choose to jam with the guitarist and the sax player",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 30,
+            "name": "that my position is \"at the concert\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 14697498
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 31,
+            "name": "I choose to \"Jam with the band\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\win-the-game1.js:55"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 29737397
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 32,
+            "name": "I should recieve 5 \"money\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\win-the-game1.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15865598
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "win-the-game-1;i-navigate-from-the-guitarist-and-the-sax-player-to-inside-the-cloud-forest-cafe",
+        "keyword": "Scenario",
+        "line": 34,
+        "name": "I navigate from the guitarist and the sax player to inside the Cloud Forest Cafe",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 36,
+            "name": "that my position is \"at the concert\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 12829397
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 37,
+            "name": "that I navigated to the position \"inside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 121043697
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 38,
+            "name": "my position should be \"inside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 14813598
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "win-the-game-1;i-stay-at-the-cloud-forest-cafe-and-wait-for-the-barista-to-call-a-friend",
+        "keyword": "Scenario",
+        "line": 40,
+        "name": "I stay at the Cloud Forest Cafe and wait for the barista to call a friend",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 41,
+            "name": "that my position is \"inside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 13905199
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 42,
+            "name": "I wait long enough for the description to contain the text \"The barista is in a dark corner phoning a friend\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\win-the-game1.js:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 338965299
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 43,
+            "name": "I should get the option to \"Give beer to barista\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\win-the-game1.js:47"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 31725198
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "win-the-game-1;i-give-the-barista-my-beer",
+        "keyword": "Scenario",
+        "line": 45,
+        "name": "I give the barista my beer",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 46,
+            "name": "that my position is \"inside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 13478198
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 47,
+            "name": "I choose to \"Give beer to barista\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\win-the-game1.js:55"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 24903199
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 48,
+            "name": "I should recieve 2 \"espressocups\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\win-the-game1.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4754100
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "win-the-game-1;i-buy-the-third-espresso-of-the-day",
+        "keyword": "Scenario",
+        "line": 50,
+        "name": "I buy the third espresso of the day",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 51,
+            "name": "that my position is \"inside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 13457897
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 52,
+            "name": "I choose to \"Buy an espresso\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\win-the-game1.js:55"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 30696598
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 53,
+            "name": "I should recieve 1 \"espressocups\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\win-the-game1.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15679797
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "win-the-game-1;i-buy-the-fourth-espresso-of-the-day",
+        "keyword": "Scenario",
+        "line": 55,
+        "name": "I buy the fourth espresso of the day",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 56,
+            "name": "that my position is \"inside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 13522299
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 57,
+            "name": "I choose to \"Buy an espresso\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\win-the-game1.js:55"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 47007097
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 58,
+            "name": "I should recieve 1 \"espressocups\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\win-the-game1.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 14621900
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "win-the-game-1;i-buy-the-fifth-espresso-of-the-day",
+        "keyword": "Scenario",
+        "line": 60,
+        "name": "I buy the fifth espresso of the day",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 61,
+            "name": "that my position is \"inside the cafe\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 13557397
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 62,
+            "name": "I choose to \"Buy an espresso\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\win-the-game1.js:55"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 29312498
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 63,
+            "name": "I should recieve 1 \"espressocups\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\win-the-game1.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 16323800
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 64,
+            "name": "my position should be \"I won\"",
+            "match": {
+              "location": "file:\\C:\\Users\\Noddan\\Desktop\\Espresso-Addict\\espresso-addict-main\\Playwright-Cucumber-e2e-EspressoAdict\\tests\\features\\step-definitions\\common-steps.js:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15942899
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "win-the-game-1",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Win the game 1",
+    "tags": [],
+    "uri": "tests\\features\\win-the-game1.feature"
   }
 ]
