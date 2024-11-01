@@ -26,7 +26,8 @@ When('i click the {string} button', async function (button) {
 
 When('i press {string}', async function (pressedKey) {
   console.log(pressedKey)
-  await this.page.keyboard.press(pressedKey);
+  //await this.page.keyboard.press(pressedKey);
+  await this.page.evaluate(() => document.exitFullscreen());
 });
 
 Then('my position should be {string}', async function (position) {
