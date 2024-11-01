@@ -1,0 +1,41 @@
+Feature: Win the game 1
+One way to win the game
+
+Scenario Outline:
+    Given that I have started the game by navigating to "http://localhost:3000"
+    
+    And that my position is "<location>"
+
+    When I navigate to "<location2>"
+    Then my position should be "<location2>"
+    When I wait long enough
+    Then an "<event>" should occure
+    When I choose an "<option>"
+    Then my "<stats>" have changed
+
+    When I navigate to "<location3>"
+    Then my position should be "<location3>"
+    When I wait long enough
+    Then an "<event2>" should occure
+    When I choose an "<option2>"
+    Then my "<stats2>" have changed
+
+    When I navigate to "<location4>"
+    Then my position should be "<location4>"
+    When I wait long enough
+    Then an "<event3>" should occure
+    When I choose an "<option3>"
+    Then my "<stats3>" have changed
+
+    When I navigate to "<location5>"
+    Then my position should be "<location5>"
+    When I wait long enough
+    Then an "<event4>" should occure
+    When I choose an "<option4>"
+    Then my position should be "I won"    
+
+    Examples:
+      | location         | event           | event2 | event3    | event4 |option | option2 | option3 | option4 | stats    | stats2           | stats3          | location2        | location3       | location4        | location5        |
+      | inside the cafe  | ...             | ...    | ...       | ...    | ...   | ...     | ...     | ...     |Health    | Health           | Health          |in a crowded bar | inside the cafe |  at the concert  | inside the cafe  |
+      | in a crowded bar | ...             | ...    | ...       | ...    | ...   | ...     | ...     | ...     |Money     | Money            |Money            |at the concert   | inside the cafe |  inside the cafe | inside the cafe  |
+      | at the concert   | ...             | ...    | ...       | ...    | ...   | ...     | ...     | ...     |Espressos | Espressos        |Espressos        |inside the cafe  | in a crowded bar|  inside the cafe | inside the cafe  |
