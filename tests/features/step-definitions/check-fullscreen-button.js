@@ -1,6 +1,7 @@
 import { Given, When, Then } from '@cucumber/cucumber';
 import { navigateTo, getWhereIAm, getMenuChoiceElement } from './helpers.js'
 import { expect } from 'chai';
+import { expect as playwrightExpect } from 'playwright/test';
 
 /*
 Alla Följande steg finns redan i common steps:
@@ -19,7 +20,7 @@ Then('i should exit fullscreen', async function () {
 
 /*   let element = await this.page.getByText("Full Screen")
   let elementVisiblity = element.checkVisibilty(element);
-  expect(elementVisiblity).to.be.true; */
-
-  // expect(await this.page.getByText("Full Screen")).toBeVisible(); kan vi göra detta istället?
+  expect(elementVisiblity).to.be.true;
+  await this.sleep(500);
+  await playwrightExpect(this.page.getByText("Full Screen")).toBeVisible(); //kan vi göra detta istället? */
 });
