@@ -17,5 +17,5 @@ Then('the game should go fullscreen', async function () {
 
 Then('i should exit fullscreen', async function () {
   await this.sleep(500);
-  await playwrightExpect(this.page.getByText("Full Screen")).toBeVisible(); //kan vi göra detta istället?
+  await playwrightExpect(this.page.getByText("Full Screen")).toBeVisible(); //Funkar det så här?
 });

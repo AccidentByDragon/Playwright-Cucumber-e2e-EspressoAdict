@@ -9,14 +9,6 @@ import {
   getAllCurrentMenuChoices
 } from './helpers.js';
 
-/*Given('that my position is {string}', async function(a){
-  // TODO: implement step
-});
-
-Given('that I navigated to the position {string}', async function(a){
-  // TODO: implement step
-});*/
-
 When('I wait long enough for the description to contain the text {string}', async function (partOfDescription) {
   // press wait repeatedly until the description contains a certain text
   while (!await checkIfDescriptionContainsString(this, partOfDescription, true)) {
@@ -29,30 +21,27 @@ When('I wait long enough for the description to contain the text {string}', asyn
   }
 });
 
-Then('I should recieve {float} {string}', async function(amount, recievedObject){
-  // TODO: implement step
+Then('I should recieve {float} {string}', async function (amount, recievedObject) {
   if (recievedObject === "money" || recievedObject === "espressocups") {
-    let value = +await this.getText(await this.get("." + recievedObject + " .val"));   
-     
+    let value = +await this.getText(await this.get("." + recievedObject + " .val"));
+
     expect(value).to.be.above(amount - 1);
   }
   if (recievedObject === "beer") {
     let bagContain = await this.getText(await this.get('.bag-content'));
     expect(await bagContain).to.contain(recievedObject);
   }
-  
-  
+
+
 });
 
-Then('I should get the option to {string}', async function(option){
-  // TODO: implement step
+Then('I should get the option to {string}', async function (option) {
   //let optionIndex = await this.getText(getAllCurrentMenuChoices(this, option)); 
   let { choices } = await getAllCurrentMenuChoices(this)
-  console.log(choices);
+  //console.log(choices);
   expect(choices).to.contain(option);
 });
 
-Given('I choose to {string}', async function(choice){
-  // TODO: implement step
-  await this.page.getByText(choice, {exact: true}).click();
+Given('I choose to {string}', async function (choice) {
+  await this.page.getByText(choice, { exact: true }).click();
 });
